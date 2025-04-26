@@ -1,4 +1,14 @@
 {
+  "narkabtu ša išāti": {"technical": 75, "metaphorical": 25},
+  "rigmu ša šamê": {"technical": 62, "metaphorical": 38},
+  "birqu ša šamê": {"technical": 65, "metaphorical": 35},
+  "mušu ša šāri": {"technical": 60, "metaphorical": 40},
+  "vimāna": {"technical": 70, "metaphorical": 30},
+  "nāda": {"technical": 70, "metaphorical": 30},
+  "vāyu": {"technical": 55, "metaphorical": 45},
+  "vidyut": {"technical": 68, "metaphorical": 32}
+}
+{
   "tüzes szekerek": {"technikai_valószínűség": 75, "metaforikus_valószínűség": 25},
   "rigmu ša šamê": {"technikai_valószínűség": 62, "metaforikus_valószínűség": 38},
   "nāda": {"technikai_valószínűség": 70, "metaforikus_valószínűség": 30},

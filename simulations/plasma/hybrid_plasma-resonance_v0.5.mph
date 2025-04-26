@@ -1,0 +1,7 @@
+Placeholder for COMSOL hybrid plasma-resonance simulation file (v0.5).
+Parameters:
+- Electron density: nₑ = 10²⁰ m⁻³
+- Magnetic field: B = 1.2 T
+- Plasma velocity: vₑ = 1.3×10⁴ m/s
+- Resonance frequency: f = 20 Hz
+- Acoustic pressure: Pa = 100 Pa

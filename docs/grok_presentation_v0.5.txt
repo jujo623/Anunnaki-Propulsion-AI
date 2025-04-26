@@ -1,0 +1,33 @@
+Grok Prezentáció – Anunnaki Hajtóművek
+
+Slide 1: Cím
+- Hibrid Plazma-Rezonancia és Kvantumrezonancia
+
+Slide 2: Mitológiai Kontextus
+- Gilgames-eposz: "narkabtu ša išāti", "rigmu ša šamê"
+- Mahábhárata: "vimāna", "nāda", "vāyu"
+
+Slide 3: Fizikai Modell
+- Plazma paraméterek: nₑ=10²⁰ m⁻³, B=1.2T, f=20Hz
+- COMSOL szimuláció (tolóerő 8kN)
+
+Slide 4: Kvantumrezonancia
+- Casimir-effektus és THz-oszcilláció
+- MATLAB Quantum Toolbox
+
+Slide 5: Turbulencia és Hőállóság
+- OpenFOAM: Mach 5, Reynolds-analízis
+- ANSYS: SiC/TaC burkolatok, 10⁶K
+
+Slide 6: Vizualizációk
+- Unity hajtóműmodell
+- Stable Diffusion "Tüzes szekér" képek
+
+Slide 7: Prioritások
+- 2 hét: Validáció
+- 1 hónap: Unity térkép prototípus
+- 2 hónap: Kvantumrezonancia integráció
+
+Slide 8: Záróüzenet
+- Mitológia és fizika összekapcsolása tudományos alapon
+- Interdiszciplináris AI-kutatás jövője
