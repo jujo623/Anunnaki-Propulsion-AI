@@ -1,4 +1,38 @@
 {
+  "decision_matrix": [
+    {
+      "term": "narkabtu ša išāti",
+      "meaning": "tüzes szekér",
+      "technical_probability": 75,
+      "notes": "Plazmahajtás analógia, VASIMR elv."
+    },
+    {
+      "term": "rigmu ša šamê",
+      "meaning": "rezgés az égen",
+      "technical_probability": 62,
+      "notes": "Infravörös rezonancia, Casimir-effektus kapcsolódás."
+    },
+    {
+      "term": "mušu",
+      "meaning": "szél/áramlat",
+      "technical_probability": 65,
+      "notes": "Plazma-áramlás analógia."
+    },
+    {
+      "term": "birqu",
+      "meaning": "villám, ragyogás",
+      "technical_probability": 80,
+      "notes": "Plazmakisülés, ionizációs fényjelenség."
+    },
+    {
+      "term": "nāda",
+      "meaning": "kozmikus hangrezgés",
+      "technical_probability": 70,
+      "notes": "THz tartományú rezgés, kvantumrezonancia alapja."
+    }
+  ]
+}
+{
   "narkabtu ša išāti": {"technical": 75, "metaphorical": 25},
   "rigmu ša šamê": {"technical": 62, "metaphorical": 38},
   "birqu ša šamê": {"technical": 65, "metaphorical": 35},

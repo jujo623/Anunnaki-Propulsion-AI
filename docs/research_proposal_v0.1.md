@@ -1,3 +1,26 @@
+# Anunnaki Propulsion Research Proposal
+
+## Cél
+A sumér, akkád és indiai mitológiai források technikai értelmezése és modern fizikai modellekkel történő szimulációja.
+
+## Fő területek
+- Hibrid plazma-rezonancia hajtómű modellezése (COMSOL, OpenFOAM, ANSYS).
+- Kvantumrezonancia alapú alternatív hajtásrendszer fejlesztése (MATLAB).
+- Mitológiai szövegek NLP-alapú technikai validációja (BERT, CLTK).
+
+## Módszertan
+- Paraméterezett fizikai szimulációk (nₑ = 10²⁰ m⁻³, B = 1.2 T, vₑ = 1.3×10⁴ m/s).
+- Casimir-effektus szimuláció THz tartományban.
+- Nyelvi összehasonlító elemzés (sumér ↔ szanszkrit).
+
+## Ütemterv
+- 2 hét: Plazma- és rezonancia modell validálása.
+- 1 hónap: Unity-alapú prototípus fejlesztése.
+- 2 hónap: Kvantumrezonancia integrálása.
+- 6 hónap: Végleges Unity térkép, vizuális demonstráció.
+
+## Várható eredmény
+Tudományosan megalapozott szimulációk és vizuális rekonstrukciók, amelyek új megvilágításba helyezik az ősi repülő eszközökről szóló mítoszokat.
 # Anunnaki Propulsion System – Research Proposal
 
 ## 1. Background

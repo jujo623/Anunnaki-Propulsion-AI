@@ -1,3 +1,23 @@
+# Hybrid Plasma-Resonance Model - COMSOL v0.5
+
+Plasma Parameters:
+- Electron density (n_e): 1e20 m^-3
+- Magnetic field (B): 1.2 T
+- Plasma temperature (T): 10^6 K
+- Plasma flow velocity (v_e): 1.3e4 m/s
+- Resonance frequency (f): 20 Hz
+- Acoustic pressure (P_a): 100 Pa
+
+Boundary Conditions:
+- Turbulence: k-epsilon model
+- Atmospheric friction model included
+- Surface material: SiC/TaC (high thermal resistance)
+
+Goal:
+- Simulate stable plasma flow with acoustic resonance coupling.
+
+Note:
+- Full COMSOL physics will be built in the final phase.
 Placeholder for COMSOL hybrid plasma-resonance simulation file (v0.5).
 Parameters:
 - Electron density: nₑ = 10²⁰ m⁻³

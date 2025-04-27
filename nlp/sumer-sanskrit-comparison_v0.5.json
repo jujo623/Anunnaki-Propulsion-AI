@@ -1,4 +1,36 @@
 {
+  "sumer_sanskrit_comparison": [
+    {
+      "sumerian": "rigmu ša šamê",
+      "meaning": "rezgés az égen",
+      "sanskrit": "nāda",
+      "meaning_sanskrit": "kozmikus hangrezgés",
+      "technical_probability": 70
+    },
+    {
+      "sumerian": "mušu",
+      "meaning": "szél/áramlat",
+      "sanskrit": "vāyu",
+      "meaning_sanskrit": "szél/életerő",
+      "technical_probability": 65
+    },
+    {
+      "sumerian": "birqu",
+      "meaning": "villám, ragyogás",
+      "sanskrit": "vidyut",
+      "meaning_sanskrit": "villám",
+      "technical_probability": 80
+    },
+    {
+      "sumerian": "narkabtu ša išāti",
+      "meaning": "tüzes szekér",
+      "sanskrit": "vimāna",
+      "meaning_sanskrit": "égi szekér",
+      "technical_probability": 75
+    }
+  ]
+}
+{
   "mušu": "vāyu",
   "rigmu ša šamê": "nāda",
   "narkabtu ša išāti": "vimāna",
