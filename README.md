@@ -1,3 +1,24 @@
+# Anunnaki Propulsion AI Project
+
+## Leírás
+Ez a projekt célja a sumér, akkád és indiai mitológiákban leírt repülő eszközök (pl. "tüzes szekerek", "vimánák") tudományos modellezése modern fizikai elméletek (plazma-rezonancia, kvantumrezonancia) alapján.
+
+## Fő komponensek
+- **Simulations**: COMSOL, OpenFOAM, ANSYS, MATLAB szimulációk
+- **NLP**: Sumér-szanszkrit kulcsszavak összehasonlítása, BERT súlyozás
+- **Visuals**: Unity 3D modellek, Stable Diffusion koncepciók
+- **Documentation**: Prezentációk, kutatási javaslatok
+
+## Szerkezet
+- `/simulations` – Fizikai szimulációs fájlok
+- `/nlp` – Nyelvi elemzések
+- `/visuals` – 3D modellek és vizuális koncepciók
+- `/docs` – Prezentációk, kutatási dokumentumok
+
+## Kapcsolat
+- **Koordinátorok**: ChatGPT & Jurás József
+
+> "A múlt rejtélyeit csak interdiszciplináris csapatokkal fejthetjük meg."
 # Anunnaki-Propulsion-AI
 AI-alapú mitológiai hajtóműmodellek (COMSOL, NLP, Unity)
 {
